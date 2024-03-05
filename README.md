@@ -8,7 +8,7 @@ Time spent: **1** hours spent in total
 
 ## Summary
 
-**Android Kotlin Debugging** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Additionally also learned to about how to utilize logcat to find errors within a particular functionality of the program**
+**Android Kotlin Debugging** is an Android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Additionally, also learned how to utilize logcat to find errors within a particular functionality of the program**
 
 If I had to describe this project in three (3) emojis, they would be: **😊, 💻, 🔍**
 
@@ -48,7 +48,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+Through this project, I gained insights into the process of debugging in Android Studios. Additionally, also learned about the Kotlin as a programming language for Android development.  
 
 ## License
 
