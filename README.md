@@ -48,7 +48,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Through this project, I gained insights into the process of debugging in Android Studios. Additionally, also learned about the Kotlin as a programming language for Android development.  
+Through this project, I gained insights into the process of debugging in Android Studios. Additionally, I also learned about Kotlin as a programming language for Android development.  
 
 ## License
 
